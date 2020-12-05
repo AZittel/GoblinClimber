@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4577989435791455754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4577989435791455755}
+  - component: {fileID: 4577989435791455756}
+  - component: {fileID: 1789287523}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4577989435791455755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4577989435791455754}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.8188129, y: 0.8327692, z: 2.6299622}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4577989435791455756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4577989435791455754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22184b6de730bc2419a3dee6e34e6f06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  towerCurrent: {fileID: 0}
+  towerPrefab: {fileID: 8050954039798284872, guid: 6cb1eee450396d94a93f36f2b71ccb38, type: 3}
+  playerTransform: {fileID: 0}
+  topCenter: {fileID: 0}
+  floorTransform: {fileID: 0}
+  floorSpeed: 1
+--- !u!114 &1789287523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4577989435791455754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e303094b351a816449122250d562dc07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deltaWallRotation: 10
+  numberObstaclesGenerated: 100
+  timingObstacle: {fileID: 5093000980575503851, guid: b551ebc40a2e6a74e8265c51cf0af396, type: 3}
+  simpleObstacle: {fileID: 9184169913785936369, guid: 0b9ca306221e8b34084d46724483d971, type: 3}
+  wallObstacle: {fileID: 45481283772684393, guid: bd4cda07285edf54a9414de28ef683de, type: 3}
+  horizontalCrawler: {fileID: 162186911531283328, guid: 2eea3ade8ad5f794d9e7f5d861fd2896, type: 3}
+  obstacleDistance:
+  - 5
+  - 4
+  - 3
+  - 3
+  - 3
+  player: {fileID: 7191817984940263123, guid: 4488b5cc77d80b4468bdfb64d3fb410d, type: 3}
+  startHeigth: 0
+  chunkSize: 20
+  towerDiameter: 0.8
+  rotationPoint: {fileID: 5146766730168488662, guid: 7ce06cdb3bb42ec47ada16a7558cbbc8, type: 3}
+  difficultyIncreaseDistance: 50
