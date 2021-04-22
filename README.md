@@ -21,5 +21,7 @@ In a team of 4 we have created the Goblin Climber, a game where you must keep cl
 
 <p>More information on https://monogenesis.itch.io/</p>
 
+Short demo: https://www.youtube.com/watch?v=9MMvK790PGc
+
 ![GoblinClimber](./screenshots/menu.png)
 ![GoblinClimber](./screenshots/gameplay.png)
