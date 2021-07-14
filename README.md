@@ -23,5 +23,5 @@ In a team of 4 we have created the Goblin Climber, a game where you must keep cl
 
 Short demo: https://www.youtube.com/watch?v=9MMvK790PGc
 
-![GoblinClimber](./screenshots/menu.png)
-![GoblinClimber](./screenshots/gameplay.png)
+![GoblinClimber](https://raw.githubusercontent.com/Monogenesis/GoblinClimber/main/screenshots/gameplay.png)
+![GoblinClimber](https://raw.githubusercontent.com/Monogenesis/GoblinClimber/main/screenshots/menu.png)
