@@ -1,27 +1,30 @@
-# GoblinClimber
+# Goblin Climber
 
-<h3>How to run the code</h3>
+This game was created in the 9th ScoreJam (GameJam), where the player controls a goblin that climbs a permanently sinking tower and has to avoid obstacles.
 
-<p>Add this project to unity and then run from the menu scene</p>
+## How to play
 
-<h3>What I have learned</h3>
+Download and play the game here: https://monogenesis.itch.io/goblin-climber
+  
+## Demo
 
-<ul>
-<li>Writing C# code</li>
-<li>Working with Unity</li>
-<li>Working in a team</li>
-<li>Creating a game from scratch</li>
-<li>Having fun</li>
-</ul>
+Short video: https://www.youtube.com/watch?v=9MMvK790PGc
+## Lessons Learned
 
-<h3>Description</h3>
+- Creating a game
+- Learning C#
+- Working with Untiy
+- Working in a Team
+- Having fun with Game jams
 
-<p>This project came to live by joining the ScoreJam.<br>
-In a team of 4 we have created the Goblin Climber, a game where you must keep climbing the sinking tower and doging obstacles to survive</p>
-
-<p>More information on https://monogenesis.itch.io/</p>
-
-Short demo: https://www.youtube.com/watch?v=9MMvK790PGc
+## Screenshots
 
 ![GoblinClimber](https://raw.githubusercontent.com/Monogenesis/GoblinClimber/main/screenshots/gameplay.png)
 ![GoblinClimber](https://raw.githubusercontent.com/Monogenesis/GoblinClimber/main/screenshots/menu.png)
+## Authors
+
+- [@blueplate](blueplate.itch.io)
+- [@bakob](bakob.itch.io)
+- [@monogenesis](monogenesis.itch.io)
+- [@sandordude](http://instagram.com/sandordude)
+  
