@@ -21,7 +21,7 @@ Short video: https://www.youtube.com/watch?v=9MMvK790PGc
 
 ![GoblinClimber](https://raw.githubusercontent.com/Monogenesis/GoblinClimber/main/screenshots/gameplay.png)
 ![GoblinClimber](https://raw.githubusercontent.com/Monogenesis/GoblinClimber/main/screenshots/menu.png)
-## Authors
+## Creators
 
 - [@blueplate](blueplate.itch.io)
 - [@bakob](bakob.itch.io)
