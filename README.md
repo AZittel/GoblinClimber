@@ -2,6 +2,10 @@
 
 This game was created in the 9th ScoreJam (GameJam), where the player controls a goblin that climbs a permanently sinking tower and has to avoid obstacles.
 
+## Motivation
+
+The goal of this project was to participate in a Game Jam for the first time in a small group of developers. With the given theme "climbing", the game "Goblin Climber" was created after 72 hours.
+
 ## How to play
 
 Download and play the game here: https://monogenesis.itch.io/goblin-climber
