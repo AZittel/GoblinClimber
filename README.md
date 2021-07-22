@@ -6,6 +6,12 @@ This game was created in the 9th ScoreJam (GameJam), where the player controls a
 
 The goal of this project was to participate in a Game Jam for the first time in a small group of developers. With the given theme "climbing", the game "Goblin Climber" was created after 72 hours.
 
+## Recognition
+
+- [@blueplate](blueplate.itch.io)
+- [@bakob](bakob.itch.io)
+- [@sandordude](http://instagram.com/sandordude)
+  
 ## How to play
 
 Download and play the game here: https://monogenesis.itch.io/goblin-climber
@@ -25,10 +31,5 @@ Short video: https://www.youtube.com/watch?v=9MMvK790PGc
 
 ![GoblinClimber](https://raw.githubusercontent.com/Monogenesis/GoblinClimber/main/screenshots/gameplay.png)
 ![GoblinClimber](https://raw.githubusercontent.com/Monogenesis/GoblinClimber/main/screenshots/menu.png)
-## Creators
 
-- [@blueplate](blueplate.itch.io)
-- [@bakob](bakob.itch.io)
-- [@monogenesis](monogenesis.itch.io)
-- [@sandordude](http://instagram.com/sandordude)
-  
+
