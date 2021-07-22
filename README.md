@@ -8,8 +8,8 @@ The goal of this project was to participate in a Game Jam for the first time in 
 
 ## Recognition
 
-- [@blueplate](blueplate.itch.io)
-- [@bakob](bakob.itch.io)
+- [@blueplate](https://blueplate.itch.io/)
+- [@bakob](https://bakob.itch.io)
 - [@sandordude](http://instagram.com/sandordude)
   
 ## How to play
